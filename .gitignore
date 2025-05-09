@@ -6,12 +6,12 @@ harrys_hardware_haven/.env
 
 # Dependencies
 node_modules/
-frontend/node_modules/
-backend/node_modules/
+harrys_hardware_haven/node_modules/
+server/node_modules/
 
 # Build output
-frontend/build/
-backend/dist/
+harrys_hardware_haven/build/
+server/dist/
 
 # Logs
 npm-debug.log*
